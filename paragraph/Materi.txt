@@ -1,6 +1,6 @@
 [x] Membuat Hello World!
 [x] Apa itu Tag?
-[] Paragraph
+[x] Paragraph
 [] Heading
 [] List
 [] Hyperlink
