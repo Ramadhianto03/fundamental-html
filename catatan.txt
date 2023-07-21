@@ -1,0 +1,6 @@
+commit = pesan untuk mengubah atau membuat komentar menambah mengapus file
+reposirtory = folder
+branch = perbacangan atau menambah fitur baru
+marge = menyatukan file
+pull request =  mengacc
+fork = mengcloning file
